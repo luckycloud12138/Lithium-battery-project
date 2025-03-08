@@ -3,3 +3,4 @@ Our paper "SD-YOLO: A Lightweight Model for Small Target Defect Detection in Com
 
 # 1 Framework
 
+![](https://github.com/luckycloud12138/Lithium-battery-project/blob/main/images/frame.png?raw=true)
